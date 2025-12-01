@@ -13,7 +13,7 @@
   },
   {
     "type": "Steam",
-    "icon": "fab fa-gamepad",
+    "icon": "fab fa-share-alt-square",
     "qrCode": "https://steamcommunity.com/id/SmallBelly",
     "hoverColor": "#171d25"
   },
