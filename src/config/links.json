@@ -1,26 +1,26 @@
-[
+[  
+   {
+    "type": "Telegram",
+    "icon": "fab fa-telegram",
+    "url": "https://t.me/Belly_DC5",
+    "hoverColor": "#0088CC"
+  }, 
   {
+    "type": "Instagram",
+    "icon": "fab fa-instagram",
+    "qrCode": "https://www.instagram.com/todayis_belly",
+    "hoverColor": "#F56040"
+  },
+  {
+    "type": "Steam",
+    "icon": "fab fa-gamepad",
+    "qrCode": "https://steamcommunity.com/id/SmallBelly",
+    "hoverColor": "#171d25"
+  },
+    {
     "type": "Email",
     "icon": "fas fa-envelope",
     "url": "smallbelly0919@gmail.com",
     "hoverColor": "#e78b0a"
-  },
-  {
-    "type": "Github",
-    "icon": "fab fa-github",
-    "url": "https://github.com/JLinmr",
-    "hoverColor": "#6500fc"
-  },
-  {
-    "type": "支付宝",
-    "icon": "fab fa-alipay",
-    "qrCode": "https://lib.bsgun.cn/Hexo-static/img/zfbzf.avif",
-    "hoverColor": "#007aff"
-  },
-  {
-    "type": "微信",
-    "icon": "fab fa-weixin",
-    "qrCode": "https://lib.bsgun.cn/Hexo-static/img/wxzf.avif",
-    "hoverColor": "#247700"
   }
 ]
