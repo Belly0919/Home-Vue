@@ -12,12 +12,6 @@
     "hoverColor": "#F56040"
   },
   {
-    "type": "Steam",
-    "icon": "fab fa-share-alt-square",
-    "qrCode": "https://steamcommunity.com/id/SmallBelly",
-    "hoverColor": "#171d25"
-  },
-  {
     "type": "Email",
     "icon": "fas fa-envelope",
     "url": "smallbelly0919@gmail.com",
