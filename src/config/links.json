@@ -8,7 +8,7 @@
   {
     "type": "Instagram",
     "icon": "fab fa-instagram",
-    "qrCode": "https://www.instagram.com/todayis_belly",
+    "url": "https://www.instagram.com/todayis_belly",
     "hoverColor": "#F56040"
   },
   {
