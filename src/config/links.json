@@ -12,9 +12,9 @@
     "hoverColor": "#F56040"
   },
   {
-    "type": "nodeseek",
-    "icon": "fas fa-podcast",
-    "url": "https://www.nodeseek.com/space/11673#/general",
+    "type": "Steam",
+    "icon": "fas fa-brands.fa-steam",
+    "url": "https://steamcommunity.com/id/SmallBelly",
     "hoverColor": "#8C969D"
   }
 ]
