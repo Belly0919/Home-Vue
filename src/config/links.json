@@ -12,9 +12,9 @@
     "hoverColor": "#F56040"
   },
   {
-    "type": "Email",
-    "icon": "fas fa-envelope",
-    "url": "smallbelly0919@gmail.com",
-    "hoverColor": "#e78b0a"
+    "type": "nodeseek",
+    "icon": "fas fa-podcast",
+    "url": "https://www.nodeseek.com/space/11673#/general",
+    "hoverColor": "#8C969D"
   }
 ]
