@@ -7,7 +7,7 @@
   {
     "name": "图床",
     "url": "https://pic.ToBelly.com",
-    "icon": "fa fa-image"
+    "icon": "fa fa-terminal"
   },
   {
     "name": "云盘",
@@ -25,8 +25,8 @@
     "icon": "fa fa-rss-square"
   },
   {
-    "name": "邮局",
-    "url": "https://mail.ToBelly.com",
-    "icon": "fa fa-envelope"
+    "name": "影集",
+    "url": "https://Photo.ToBelly.com",
+    "icon": "fa fa-image"
   }
 ]
