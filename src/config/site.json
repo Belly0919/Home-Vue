@@ -1,13 +1,13 @@
 [
   {
-    "name": "博客",
-    "url": "https://blog.ToBelly.com",
-    "icon": "fa fa-blog"
+    "name": "图床",
+    "url": "https://pic.ToBelly.com",
+    "icon": "fa fa-image"
   },
   {
     "name": "作品",
     "url": "https://Photo.ToBelly.com",
-    "icon": "fa fa-image"
+    "icon": "fa fa-camera-retro"
   },
   {
     "name": "影院",
