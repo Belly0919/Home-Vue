@@ -5,9 +5,14 @@
     "icon": "fa fa-blog"
   },
   {
-    "name": "图床",
-    "url": "https://pic.ToBelly.com",
-    "icon": "fa fa-terminal"
+    "name": "监测",
+    "url": "https://vps.ToBelly.com",
+    "icon": "fa fa-server"
+  },  
+  {
+    "name": "影院",
+    "url": "https://tv.ToBelly.com",
+    "icon": "fa fa-vedio"
   },
   {
     "name": "云盘",
@@ -15,17 +20,12 @@
     "icon": "fa fa-cloud "
   },
   {
-    "name": "服务",
-    "url": "https://vps.ToBelly.com",
-    "icon": "fa fa-server"
-  },
-  {
     "name": "订阅",
     "url": "https://Sub.ToBelly.com",
     "icon": "fa fa-rss-square"
   },
   {
-    "name": "影集",
+    "name": "作品",
     "url": "https://Photo.ToBelly.com",
     "icon": "fa fa-image"
   }
