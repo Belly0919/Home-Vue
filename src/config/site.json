@@ -5,28 +5,28 @@
     "icon": "fa fa-blog"
   },
   {
+    "name": "作品",
+    "url": "https://Photo.ToBelly.com",
+    "icon": "fa fa-image"
+  },
+  {
+    "name": "影院",
+    "url": "https://tv.ToBelly.com",
+    "icon": "fa fa-film"
+  },  
+  {
+    "name": "云盘",
+    "url": "https://Webdev.ToBelly.com",
+    "icon": "fa fa-cloud "
+  },  
+  {
     "name": "监测",
     "url": "https://vps.ToBelly.com",
     "icon": "fa fa-server"
   },  
   {
-    "name": "影院",
-    "url": "https://tv.ToBelly.com",
-    "icon": "fa fa-vedio"
-  },
-  {
-    "name": "云盘",
-    "url": "https://Webdev.ToBelly.com",
-    "icon": "fa fa-cloud "
-  },
-  {
     "name": "订阅",
     "url": "https://Sub.ToBelly.com",
     "icon": "fa fa-rss-square"
-  },
-  {
-    "name": "作品",
-    "url": "https://Photo.ToBelly.com",
-    "icon": "fa fa-image"
   }
 ]
