@@ -1,5 +1,11 @@
 [  
    {
+    "type": "blog",
+    "icon": "fas fa-blog ",
+    "url": "https://pic.tobelly.com",
+    "hoverColor": "#0d1117"
+  },   
+   {
     "type": "Telegram",
     "icon": "fab fa-telegram",
     "url": "https://t.me/To_Belly",
@@ -16,11 +22,5 @@
     "icon": "fab fa-steam",
     "url": "https://steamcommunity.com/id/SmallBelly",
     "hoverColor": "#8C969D"
-  },
-  {
-    "type": "图床",
-    "icon": "fab fa-inbox",
-    "url": "https://pic.tobelly.com",
-    "hoverColor": "#ffd363"
-  }   
+  }
 ]
