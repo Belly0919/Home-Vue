@@ -17,4 +17,10 @@
     "url": "https://steamcommunity.com/id/SmallBelly",
     "hoverColor": "#8C969D"
   }
+  {
+    "type": "图床",
+    "icon": "fab fa-image",
+    "url": "https://pic.tobelly.com",
+    "hoverColor": "#ffd363"
+  }   
 ]
