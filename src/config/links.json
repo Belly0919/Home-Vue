@@ -1,11 +1,5 @@
 [  
    {
-    "type": "blog",
-    "icon": "fas fa-blog ",
-    "url": "https://blog.tobelly.com",
-    "hoverColor": "#0d1117"
-  },   
-   {
     "type": "Telegram",
     "icon": "fab fa-telegram",
     "url": "https://t.me/To_Belly",
