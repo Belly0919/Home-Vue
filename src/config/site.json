@@ -20,9 +20,9 @@
     "icon": "fa fa-cloud "
   },  
   {
-    "name": "订阅",
-    "url": "https://Sub.ToBelly.com",
-    "icon": "fa fa-rss-square"
+    "name": "邮局",
+    "url": "https://mail.ToBelly.com",
+    "icon": "fa fa-envelope"
   },
   {
     "name": "图床",
