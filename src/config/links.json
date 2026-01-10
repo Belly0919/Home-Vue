@@ -16,5 +16,11 @@
     "icon": "fab fa-steam",
     "url": "https://steamcommunity.com/id/SmallBelly",
     "hoverColor": "#8C969D"
-  }
+  },
+  {
+    "type": "妙妙屋",
+    "icon": "fab fa-home",
+    "url": "https://sub.tobelly.com",
+    "hoverColor": "#ec896c"
+  }   
 ]
