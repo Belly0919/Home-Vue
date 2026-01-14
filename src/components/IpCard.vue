@@ -6,7 +6,7 @@
 
 <style scoped>
 .ip-glass {
-  margin: 35px auto 15px;
+  margin: 80px auto 20px; 
   padding: 22px 28px;
   border-radius: 22px;
   backdrop-filter: blur(18px) saturate(140%);
@@ -18,8 +18,8 @@
 }
 
 .ip-glass img {
-  width: 520px;
-  max-width: 92vw;
+  width: 460px; 
+  max-width: 88vw;
   border-radius: 16px;
 }
 </style>
