@@ -30,6 +30,7 @@
       </span>
     </div>
     <Website /> 
+    <IpCard /> 
     <VisitTimer />
 
     <Transition name="fade">
@@ -56,6 +57,7 @@ import contactsData from '../config/links.json';
 import Website from './Website.vue';
 import AboutPage from './AboutPage.vue';
 import VisitTimer from './VisitTimer.vue';
+import IpCard from './IpCard.vue';
 import Typed from 'typed.js';
 
 const contacts = ref(contactsData);
@@ -67,11 +69,11 @@ const userName = ref(import.meta.env.VITE_APP_USER_NAME);
 const descriptionElement = ref(null);
 
 const predefinedDescriptions = [
-  "你好鸭，欢迎来到我的主页！！",
-  "随时可以联系我，期待与你交流。",
-  "愿你历尽千帆，归来仍是少年。",
-  "梦想还是要有的，万一实现了呢？",
-  "I hope you have a happy day every day."
+  "欢迎来到我的主页！",
+  "您可以通过以下方式联系我",
+  "宇宙里有什么不是暂时",
+  "以下的服务都可以联系我为您开通",
+  "Welcome to Belly's homepage."
 ];
 
 let typedInstance = null;
