@@ -5,16 +5,21 @@
 </template>
 
 <style scoped>
-.ip-card {
-  margin: 25px auto 10px;
-  display: flex;
+.ip-glass {
+  margin: 35px auto 15px;
+  padding: 22px 28px;
+  border-radius: 22px;
+  backdrop-filter: blur(18px) saturate(140%);
+  -webkit-backdrop-filter: blur(18px) saturate(140%);
+  background: rgba(255,255,255,0.65);
+  box-shadow: 0 18px 45px rgba(0,0,0,.12);
+  display: inline-flex;
   justify-content: center;
 }
 
-.ip-card img {
-  max-width: 380px;
-  width: 100%;
-  border-radius: 14px;
-  box-shadow: 0 10px 30px rgba(0,0,0,.25);
+.ip-glass img {
+  width: 520px;
+  max-width: 92vw;
+  border-radius: 16px;
 }
 </style>
