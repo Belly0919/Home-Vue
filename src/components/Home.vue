@@ -30,7 +30,6 @@
       </span>
     </div>
     <Website /> 
-    <IpCard /> 
     <VisitTimer />
 
     <Transition name="fade">
