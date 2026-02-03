@@ -1,5 +1,11 @@
 [  
    {
+    "type": "Email",
+    "icon": "fas fa-envelope",
+    "url": "mailto:hi@belly.icu",
+    "hoverColor": "#e78b0a"
+ },   
+   {
     "type": "Telegram",
     "icon": "fab fa-telegram",
     "url": "https://t.me/To_Belly",
@@ -16,11 +22,5 @@
     "icon": "fab fa-steam",
     "url": "https://steamcommunity.com/id/SmallBelly",
     "hoverColor": "#8C969D"
-  },
-  {
-    "type": "妙妙屋",
-    "icon": "fa fa-home",
-    "url": "https://sub.tobelly.com",
-    "hoverColor": "#ec896c"
-  }   
+  }
 ]
