@@ -70,8 +70,7 @@ const descriptionElement = ref(null);
 const predefinedDescriptions = [
   "欢迎来到我的主页！",
   "Welcome to Belly's homepage！",
-  "您可以通过以下方式联系我。",
-  "You can contact me in the following ways."
+  "I see you！"
 ];
 
 let typedInstance = null;
