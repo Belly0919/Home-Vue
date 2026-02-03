@@ -1,32 +1,32 @@
 [
   {
     "name": "博客",
-    "url": "https://Blog.ToBelly.com",
+    "url": "https://Blog.Belly.icu",
     "icon": "fa fa-blog"
   },  
   {
     "name": "监测",
-    "url": "https://server.ToBelly.com",
+    "url": "https://server.Belly.icu",
     "icon": "fa fa-server"
   },  
   {
     "name": "作品",
-    "url": "https://Photo.ToBelly.com",
+    "url": "https://Photo.Belly.icu",
     "icon": "fa fa-camera-retro"
   },
   {
     "name": "云盘",
-    "url": "https://Drive.ToBelly.com",
+    "url": "https://Drive.Belly.icu",
     "icon": "fa fa-cloud "
   },  
   {
     "name": "邮局",
-    "url": "https://mail.ToBelly.com",
+    "url": "https://mail.Belly.icu",
     "icon": "fa fa-envelope"
   },
   {
     "name": "图床",
-    "url": "https://pic.ToBelly.com",
+    "url": "https://pic.Belly.icu",
     "icon": "fa fa-image"
   }
 ]
