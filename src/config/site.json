@@ -20,9 +20,9 @@
     "icon": "fa fa-cloud "
   },  
   {
-    "name": "邮局",
-    "url": "https://mail.Belly.icu",
-    "icon": "fa fa-envelope"
+    "name": "订阅",
+    "url": "https://sub.belly.icu/login",
+    "icon": "fa fa-rss"
   },
   {
     "name": "图床",
